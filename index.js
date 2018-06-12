@@ -7,4 +7,6 @@ function destructivelyAppendKitten (name){
   
 }
 
-function destructivelyPrependKitten()
+function destructivelyPrependKitten(name){
+  
+}
